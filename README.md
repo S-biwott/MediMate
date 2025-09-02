@@ -94,3 +94,6 @@ Accessible, AI-powered health education.
 Support for underserved rural populations.
 
 Alignment with SDGs (Good Health & Well-being, Reduced Inequalities, Innovation & Infrastructure).
+## 🚀 Live Demo
+Check out MediMate on Glide: [Click here to open](https://medimate-dc5w.glide.page)
+
