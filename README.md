@@ -1,0 +1,2 @@
+# MediMate
+AI health buddy
